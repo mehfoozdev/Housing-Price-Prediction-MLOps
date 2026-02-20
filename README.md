@@ -12,7 +12,7 @@ This project goes beyond model training and focuses on building a complete ML pi
 - Flask web application for predictions
 - Model deployment
 - CI/CD automation using GitHub Actions
-- AWS cloud hosting
+- Heroku cloud hosting
 
 ## ⚙️ Tech Stack
 
@@ -21,7 +21,7 @@ This project goes beyond model training and focuses on building a complete ML pi
 - Flask
 - Git & GitHub
 - GitHub Actions
-- AWS
+- Heroku
 
 ## 🚀 Workflow
 
