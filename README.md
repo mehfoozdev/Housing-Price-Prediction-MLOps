@@ -11,7 +11,6 @@ This project goes beyond model training and focuses on building a complete ML pi
 - Model evaluation (R², MAE, RMSE)
 - Flask web application for predictions
 - Model deployment
-- CI/CD automation using GitHub Actions
 - Heroku cloud hosting
 
 ## ⚙️ Tech Stack
@@ -20,7 +19,6 @@ This project goes beyond model training and focuses on building a complete ML pi
 - Pandas, NumPy, Scikit-learn
 - Flask
 - Git & GitHub
-- GitHub Actions
 - Heroku
 
 ## 🚀 Workflow
